@@ -1,0 +1,6 @@
+# sucessor e antecessor: leia um numnero inteiro e mostre na tela o seu antecessor e o seu sucessor
+nI=int(input("digite um numero de 0 ate 9:" ))
+n_antecessor = nI - 1
+n_sucessor = nI + 1
+print("o numero antecessor é:", n_antecessor)
+print("o numero sucessor é:", n_sucessor)
